@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: EvolveInvoicing
+        psr4_prefix: EvolveInvoicing
+        src_path: app
